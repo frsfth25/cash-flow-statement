@@ -1,0 +1,3 @@
+*.pyc
+find . -name "*.pyc" -exec git rm {} \;
+web_responsive

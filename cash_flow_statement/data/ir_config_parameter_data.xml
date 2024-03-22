@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="report_url_config_parameter" model="ir.config_parameter">
+        <field name="key">report.url</field>
+        <field name="value">http://localhost:8069</field>
+    </record>
+
+</odoo>
